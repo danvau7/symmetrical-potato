@@ -12,7 +12,15 @@
 
 ## Assignment 4
 
+`cd assignment_4`
+
+`./script.sh`
+
 ## Assignment 5
+
+`cd assignment_5`
+
+`python3 script.py`
 
 ## Assignment 6-7
 
