@@ -1,13 +1,12 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: my-service
+  name: bitcoind
 spec:
   selector:
-    app.kubernetes.io/name: MyApp
+    app.kubernetes.io/name: bitcoind
   ports:
     - protocol: TCP
-      port: 80
-      targetPort: 9376
-  clusterIP: 10.0.171.239
+      port: 8333
+      targetPort: 8333
   type: LoadBalancer
