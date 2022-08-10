@@ -17,3 +17,4 @@
 ## Assignment 6-7
 
 Too much enjoyable time spent on questions 1-5 :) 
+Currently continuing Assignment 7 on my own because I am intrigued by the idea of getting bitcoind to work with Nomad
