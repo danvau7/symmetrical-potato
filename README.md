@@ -2,6 +2,10 @@
 
 ## Assignment 1
 
+`cd assignment_1`
+
+`docker build . -t repoName/imageName:tag`
+
 ## Assignment 2
 
 ## Assignment 3
