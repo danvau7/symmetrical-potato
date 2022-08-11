@@ -1,4 +1,4 @@
-name: Docker
+name: light-cicd-build_publish_deploy
 
 # This workflow uses actions that are not certified by GitHub.
 # They are provided by a third-party and are governed by
