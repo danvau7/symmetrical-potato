@@ -1,0 +1,1 @@
+Please see `.github` folder at the root of the project  
