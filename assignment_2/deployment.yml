@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: bitcoind
-        image: ehrlich/bitcoin:0.1
+        image: ghcr.io/danvau7/symmetrical-potato:latest
         resources:
           limits:
             memory: "2048Mi"
